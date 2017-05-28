@@ -13,7 +13,7 @@
   "license": "ISC",
   "repository": {
       "type": "git",
-      "url": "https://github.com/strongloop/express"
+      "url": "https://github.com/csehao/job-queue"
   },
   "dependencies": {
     "async": "^2.4.1"
